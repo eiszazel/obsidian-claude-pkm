@@ -1,9 +1,10 @@
 # Obsidian PKM Vault Context
 
 ## System Purpose
-[CUSTOMIZE: Add your personal mission statement here]
 
-*Example: "Build meaningful technology while maintaining balance across health, relationships, and personal growth."*
+**"Build a sovereign, antifragile life through mastery of systems—IT process, automation, and decentralized finance—so I can create freedom for myself, raise the standards of how work gets done, and leave behind tools and ideas that outlive me."**
+
+**2026 Theme:** Compounding — routines, skills, systems, and income engines all stack.
 
 ## Directory Structure
 
